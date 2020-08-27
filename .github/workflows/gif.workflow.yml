@@ -1,0 +1,19 @@
+name: Sentiment GIF
+on:
+    pull_request:
+        types: [opened]
+
+jobs:
+    gif_comment_job:
+        runs-on: ubuntu-latest
+        name: Analyze mood of PR
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+            - name: Happy-PR
+              uses: TerabyteTiger/action-happyPR@v3
+              id: happy
+              with:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+
+
