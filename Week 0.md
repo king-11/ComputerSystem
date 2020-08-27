@@ -1,10 +1,8 @@
 <h1 align="center"> Week 0 </h1>
 
-### Team 0
+### Team 24
 
-- Point 1
-- Point 2
-- Point 3
-- Point 4
-- Point 5
-
+- Started designing of the website
+- Working and enhancing information on Django so as to get used with it.
+- Created a basic heirarchy branching for workflow
+- Gathering various features that can be used in Front end.
