@@ -74,3 +74,8 @@
 - Planned the widget design of few buttons and finalised the logo
 - Successfully implemented and understood the working of few basic flutter  apps  
 
+### Team 1
+- Learned the basics of flutter and dart ; did the setup of VS Code and Android Studio
+- Designed the Login and SignUp Page of the App
+- Designed the Logo of the App
+- Learned the basic concepts of ML and Tensorflow
