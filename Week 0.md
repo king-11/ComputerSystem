@@ -9,7 +9,7 @@
 - Started learning about Express-nodeJs web application framework.
 
 
-### Team 4
+### Team 3
 
 - Grouped our team into two to work on frontend and backend side.
 - Decided to work with nodejs for backend purposes
