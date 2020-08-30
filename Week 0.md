@@ -1,10 +1,8 @@
 <h1 align="center"> Week 0 </h1>
 
-### Team 0
+### Team 17
 
-- Point 1
-- Point 2
-- Point 3
-- Point 4
-- Point 5
-
+- Read about Blockchain network to be used as the decentralised database.
+- More about IPFS for the decentralised storage of data.
+- Learnt basics of solidity to be used to write the smart contracts.
+- Started learning about Express-nodeJs web application framework.
