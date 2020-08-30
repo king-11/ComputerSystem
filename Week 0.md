@@ -17,6 +17,13 @@
 - Learned all basics of html  and css.
 - Learned little bit of module system in nodejs and some aspect of asynchronous prgramming.
 
+### Team 23
+- Learned Dart and Flutter Basics
+- Build Login Screen
+- Build Animated SideBar Menu
+- Integrated Google Map API with our Project
+- Started working with firebase
+
 ### Team 24
 
 - Started designing of the website
