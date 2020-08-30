@@ -86,3 +86,10 @@
 - Designed the Login and SignUp Page of the App
 - Designed the Logo of the App
 - Learned the basic concepts of ML and Tensorflow
+
+### Team 2
+
+- Database Design completed will be implemented using mongo for lean design
+- Instructor Console Ready with dark mode design
+- Templating project directory for frontend work done, build check workflows included
+- Login page design selected implementation will be done by next week.
