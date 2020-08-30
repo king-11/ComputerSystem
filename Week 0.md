@@ -33,3 +33,9 @@
    guides the user from one section of the app to another.
 - The UI of one of the four major sections of our app has been designed.
 
+### Team 15
+
+- Learned the required ML algorithms, including data preprocessing on sample dataset in order to apply classification model.
+- Feature and model selection using metrics accuracy and recall using confusion matrix.
+- Learnt basics of Front-End and decided on a rough draft of the UI.
+- Learnt basics of Django which is the backend framework and decided on the database to be used
