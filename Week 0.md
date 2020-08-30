@@ -1,5 +1,12 @@
 <h1 align="center"> Week 0 </h1>
 
+### Team 4
+
+- Collected datasets and relevant researches related to Covid-19 epidemiology and susceptibility.
+- Analysed datasets for relevant trends and possibility of supervised machine learning.
+- Created wireframe design of app dashboard and mockup of login screen.
+- Started with creating basic ui in flutter.
+- Read about firebase for use in realtime database and for other features.
 
 ### Team 17
 
