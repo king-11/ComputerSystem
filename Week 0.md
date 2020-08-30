@@ -1,6 +1,6 @@
 <h1 align="center"> Week 0 </h1>
 
-### Team 4
+### Team 3
 
 - Grouped our team into two to work on frontend and backend side.
 - Decided to work with nodejs for backend purposes
