@@ -14,3 +14,11 @@
 - Working and enhancing information on Django so as to get used with it.
 - Created a basic heirarchy branching for workflow
 - Gathering various features that can be used in Front end.
+
+### Team 9
+
+- Learned java to implement classes, objects, methods and got familiar with Android Studio.
+- Decided the overall layout and architechture of the app.
+- Designed the splash screen and implentated navigation panel using the "Navigation Activity" which 
+   guides the user from one section of the app to another.
+- The UI of one of the four major sections of our app has been designed.
