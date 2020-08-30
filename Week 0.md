@@ -22,3 +22,11 @@
 - Designed the splash screen and implentated navigation panel using the "Navigation Activity" which 
    guides the user from one section of the app to another.
 - The UI of one of the four major sections of our app has been designed.
+
+### Team 11
+
+- Learnt Dart and Flutter basics
+- Learnt about different widgets and file handling libraries
+- Designed basic wireframes and designs for the application
+- Implemented some of the planned designs
+- Finalised the app logo and colour scheme
