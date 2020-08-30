@@ -67,3 +67,10 @@
 - Feature and model selection using metrics accuracy and recall using confusion matrix.
 - Learnt basics of Front-End and decided on a rough draft of the UI.
 - Learnt basics of Django which is the backend framework and decided on the database to be used
+
+### Team 21
+- Learnt about flutter and how it works.
+- Started dart language 
+- Planned the widget design of few buttons and finalised the logo
+- Successfully implemented and understood the working of few basic flutter  apps  
+
