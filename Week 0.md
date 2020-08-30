@@ -8,3 +8,9 @@
 - Learned all basics of html  and css.
 - Learned little bit of module system in nodejs and some aspect of asynchronous prgramming.
 
+### Team 24
+
+- Started designing of the website
+- Working and enhancing information on Django so as to get used with it.
+- Created a basic heirarchy branching for workflow
+- Gathering various features that can be used in Front end.
