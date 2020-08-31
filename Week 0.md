@@ -100,3 +100,11 @@
 - Read about differnt views used in an Android app.
 - Planned a database model to store data.
 - Created a firebase project for analytics data.
+
+
+### Team 6
+- Learn Html,javascript,css.
+- Setup the environment for project.
+- Designed the logo of app.
+- Initialize project.
+- Formed basic project structure.
