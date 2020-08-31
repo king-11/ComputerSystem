@@ -108,3 +108,10 @@
 - Designed the logo of app.
 - Initialize project.
 - Formed basic project structure.
+
+
+### Team 10
+-Gathered, analysed and understood more information about the OCR and it's applications.
+-Learnt basics of Java and android studio.
+-Planned the layout and logo of the app.
+-Started working on the front and main pages of the app.
