@@ -93,3 +93,10 @@
 - Instructor Console Ready with dark mode design
 - Templating project directory for frontend work done, build check workflows included
 - Login page design selected implementation will be done by next week.
+
+### Team 25
+
+- Learnt the basic syntax of Kotlin.
+- Read about differnt views used in an Android app.
+- Planned a database model to store data.
+- Created a firebase project for analytics data.
