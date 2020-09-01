@@ -123,3 +123,11 @@
 - Refering best styles to implememt.
 - Environment Setup Completed
 
+### Team 14
+
+- Learned basics of Flutter.
+- Started trying Google Maps API.
+- Made a basic UI, although not pushed into the repo.
+- Started learning about implementing better Backend.
+
+
