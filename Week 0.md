@@ -115,3 +115,11 @@
 - Learnt basics of Java and android studio.
 - Planned the layout and logo of the app.
 - Started working on the front and main pages of the app.
+
+### Team 8
+
+- Revised HTML,CSS,JavaScript.
+- Learning React basics.
+- Refering best styles to implememt.
+- Environment Setup Completed
+
