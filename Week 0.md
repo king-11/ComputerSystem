@@ -130,6 +130,12 @@
 - Made a basic UI, although not pushed into the repo.
 - Started learning about implementing better Backend.
 
+### Team 13
+
+- Learned basics of Frontend Web Development
+- Practiced HTML, CSS, and Bootstrap
+- Created the basic landing pages of our web application
+
 ### Team 18
 - Got familiar with android studio , project and tools required for project.
 - Learned Jdk and basic java and OOPS principles.
