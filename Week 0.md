@@ -125,7 +125,7 @@
 
 ### Team 14
 
-- Learned basics of Flutter.
+- Learned basics of Flutter
 - Started trying Google Maps API.
 - Made a basic UI, although not pushed into the repo.
 - Started learning about implementing better Backend.
@@ -135,3 +135,9 @@
 - Learned basics of Frontend Web Development
 - Practiced HTML, CSS, and Bootstrap
 - Created the basic landing pages of our web application
+
+### Team 18
+- Got familiar with android studio , project and tools required for project.
+- Learned Jdk and basic java and OOPS principles.
+- Learned Configuration of Android studio and IDE for Java
+- research on project implementation and tasks to be carried out.
