@@ -133,5 +133,5 @@
 ### Team 18
 - Got familiar with android studio , project and tools required for project.
 - Learned Jdk and basic java and OOPS principles.
-- Leaarned Configuration of Android studio and IDE for Java
+- Learned Configuration of Android studio and IDE for Java
 - research on project implementation and tasks to be carried out.
