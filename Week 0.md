@@ -141,3 +141,9 @@
 - Learned Jdk and basic java and OOPS principles.
 - Learned Configuration of Android studio and IDE for Java
 - research on project implementation and tasks to be carried out.
+
+
+### Team 12
+- learned basics of kivy and kivy md.
+- Made a logo and front page of the app.
+- Working on the layout which is best suitable for different types of devices.
