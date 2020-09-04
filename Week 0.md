@@ -144,6 +144,6 @@
 
 
 ### Team 12
-- learned basics of kivy and kivy md.
+- Learned basics of kivy and kivy md.
 - Made a logo and front page of the app.
 - Working on the layout which is best suitable for different types of devices.
