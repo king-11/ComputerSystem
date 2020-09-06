@@ -13,6 +13,13 @@
 - Learning Nodejs
 - Learned how to deploy web app.
 
+### Team 4
+- Built login and register screen.
+- Build widget to fetch Covid statistics using onlie apis.
+- Designed layout and built parts of homescreen.
+- Basic realtime database model built.
+- Refactored code to make it more modular.
+
 ### Team 12
 
 - Learned basics of kivy and kivy md.
