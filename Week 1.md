@@ -29,6 +29,13 @@
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
 
+
+### Team 11
+- Learnt more widgets like scrolling, dialog box, ClipPath, etc.
+- Learned imagepicker and imagecropper widgets and added in profile page of app
+- Discussed about backend, finalised it, and started learning firebase
+- Completed more than half of the fronted part
+
 ### Team 20
 - Designed the logo of the App.
 - Searching and designing the basic layout of the web pages.
