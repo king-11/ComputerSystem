@@ -141,3 +141,9 @@
 - Learned Jdk and basic java and OOPS principles.
 - Learned Configuration of Android studio and IDE for Java
 - research on project implementation and tasks to be carried out.
+
+### Team 27
+- Learned basics of django and sql.
+- Started making login and registration system.
+- Applied bootstrap, material css for the frontend.
+- Discussed the basic theme for the web page.
