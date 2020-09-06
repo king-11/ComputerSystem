@@ -116,3 +116,10 @@
 - Basics of OOP's in Java done.
 -basics of android studio done.
 - Started to do research for how to import data from course websites to our applications.
+
+### Team 8
+
+- Learning React.
+- Started working on login page.
+- Finalized Logo.
+
