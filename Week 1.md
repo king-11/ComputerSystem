@@ -18,6 +18,12 @@
 - Started learning about neural network.
 - Worked on screenmanager for implicating different screens in the app.
 
+### Team 23
+- Build Register screen.
+- Enabled Location in app.
+- Designed layout of different screens.
+- Started integrating frontend code with backend.
+
 ### Team 24
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
