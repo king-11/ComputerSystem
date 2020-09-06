@@ -40,6 +40,11 @@
 - Currently working on the frontend part of chat screen.
 - Also Learning implementation of firebase in chatting system.
 
+### Team 6
+- Started collecting information used in our app
+- learn Responsive design suitable for pc and android both.
+- Created basic homescreen page
+
 ### Team 10
 - Learning some advanced features of java  
 - Prepared logo of the app
