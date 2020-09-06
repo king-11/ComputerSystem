@@ -112,3 +112,7 @@
 - Profile edit page added, assignment and course creation pages created just have to merged
 - transitions worked on to make look better and easy searching
 - reading more about nodejs as api will be implemented from ground up using custom middlewares
+### Team 18
+- Basics of OOP's in Java done.
+-basics of android studio done.
+- Started to do research for how to import data from course websites to our applications.
