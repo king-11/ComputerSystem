@@ -5,6 +5,12 @@
 - Learning ML
 - Started learning backend
 
+### Team 3
+- Designed layout of pages
+- Learning Responsive Designing
+- Learning Nodejs
+- Learned  how to deploy web app.
+
 ### Team 12
 - Learned basics of kivy and kivy md.
 - Made a logo and front page of the app.
