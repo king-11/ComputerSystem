@@ -112,3 +112,8 @@
 - Profile edit page added, assignment and course creation pages created just have to merged
 - transitions worked on to make look better and easy searching
 - reading more about nodejs as api will be implemented from ground up using custom middlewares
+
+### Team 14
+- Started learning Flutter Navigation.
+- Continued adding widgets to app.
+- Continued learning Flutter Basics.
