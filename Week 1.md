@@ -22,3 +22,9 @@
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
+
+### Team 21
+Went into little more deeper in widgets sention
+Statrtd working on the home page
+Statrted learning about the firebase and it's implementation.
+Learnt some more core features of flutter.
