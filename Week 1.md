@@ -5,6 +5,13 @@
 - Learning ML
 - Started learning backend
 
+### Team 12
+- Learned basics of kivy and kivy md.
+- Made a logo and front page of the app.
+- Working on the layout which is best suitable for different types of devices.
+- Started learning about neural network.
+- Worked on screenmanager for implicating different screens in the app.
+
 ### Team 24
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
