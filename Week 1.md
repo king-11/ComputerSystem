@@ -97,3 +97,11 @@
 - Working on VueJS for the client side application.
 - Learnt to connect the frontend to the blockchain network using web3.js.
 - NodeJS work in progress.
+
+### Team 2
+
+- Node JS backend auth ready with jwt and firebase
+- Frontend login and register page created
+- Profile edit page added, assignment and course creation pages created just have to merged
+- transitions worked on to make look better and easy searching
+- reading more about nodejs as api will be implemented from ground up using custom middlewares
