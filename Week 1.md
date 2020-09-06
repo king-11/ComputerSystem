@@ -97,3 +97,7 @@
 - Working on VueJS for the client side application.
 - Learnt to connect the frontend to the blockchain network using web3.js.
 - NodeJS work in progress.
+### Team 18
+- Basics of OOP's in Java done.
+- Basics of Android studio done.
+- Started to research on how to get/import data from  course websites to application.
