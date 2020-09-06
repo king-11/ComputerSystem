@@ -28,3 +28,9 @@
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
+
+### Team 7
+- Designed the login screen and introduction screen .
+- Designed the option of login through google account.
+- Designed all the widgets , look and animation.
+- Finalised the logo of the app.
