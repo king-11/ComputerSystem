@@ -29,6 +29,11 @@
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
 
+### Team 25
+- Learnt about Kotlin extension functions.
+- Integrated Firebase Authentication with the app.
+- Practiced working with XML layouts.
+
 ### Team 21
 - Went into little more deeper in widgets sention
 - Started working on the home page
@@ -40,4 +45,3 @@
 - Designed the option of login through google account.
 - Designed all the widgets , look and animation.
 - Finalised the logo of the app.
-
