@@ -45,3 +45,9 @@
 - Designed the option of login through google account.
 - Designed all the widgets , look and animation.
 - Finalised the logo of the app.
+
+### Team 17
+- Started working on the smart contracts.
+- Working on VueJS for the client side application.
+- Learnt to connect the frontend to the blockchain network using web3.js.
+- NodeJS work in progress.
