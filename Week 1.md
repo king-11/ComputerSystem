@@ -3,4 +3,4 @@
 ### Team 1
 - Designed the layout and started working on homescreen
 - Learning ML
-- Learnt the basics of backend
+- Started learning backend
