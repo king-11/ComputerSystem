@@ -29,6 +29,12 @@
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
 
+### Team 20
+- Designed the logo of the App.
+- Searching and designing the basic layout of the web pages.
+- working on making several Web pages of the App including the Login Page and profile pages.
+- Further learnt some more widgets of Flutter for improving the User Interface.
+
 ### Team 25
 - Learnt about Kotlin extension functions.
 - Integrated Firebase Authentication with the app.
