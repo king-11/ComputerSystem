@@ -18,10 +18,22 @@
 - Started learning about neural network.
 - Worked on screenmanager for implicating different screens in the app.
 
+### Team 23
+- Build Register screen.
+- Enabled Location in app.
+- Designed layout of different screens.
+- Started integrating frontend code with backend.
+
 ### Team 24
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
+
+### Team 7
+- Designed the login screen and introduction screen .
+- Designed the option of login through google account.
+- Designed all the widgets , look and animation.
+- Finalised the logo of the app.
 
 ### Team 17
 - Started working on the smart contracts.
