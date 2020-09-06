@@ -28,5 +28,3 @@
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
-
-
