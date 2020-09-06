@@ -29,6 +29,11 @@
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
 
+### Team 6
+- Started collecting information used in our app
+- learn Responsive design suitable for pc and android both.
+- Created basic homescreen page
+
 ### Team 10
 - Learning some advanced features of java  
 - Prepared logo of the app
