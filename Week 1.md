@@ -22,3 +22,9 @@
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
+
+### Team 15
+- Learnt to use sklearn's decision based tree classifier to predict disease based on symptoms
+- Started learning to use Google map API to locate hospitals
+- Worked on the various pages and their layouts.
+- Learned basics of backend development.
