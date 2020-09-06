@@ -29,8 +29,15 @@
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
 
+### Team 21
+- Went into little more deeper in widgets sention
+- Started working on the home page
+- Started learning about the firebase and it's implementation.
+- Learnt some more core features of flutter.
+
 ### Team 7
 - Designed the login screen and introduction screen .
 - Designed the option of login through google account.
 - Designed all the widgets , look and animation.
 - Finalised the logo of the app.
+
