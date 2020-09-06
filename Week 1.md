@@ -29,6 +29,11 @@
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
 
+### Team 9
+- Designed UI for login and registration screen.
+- Created Email and Password based user Authentication.
+- Started learning Backend.
+
 ### Team 15
 - Learnt to use sklearn's decision based tree classifier to predict disease based on symptoms
 - Started learning to use Google map API to locate hospitals
