@@ -34,6 +34,23 @@
 - Created Email and Password based user Authentication.
 - Started learning Backend.
 
+### Team 11
+- Learnt more widgets like scrolling, dialog box, ClipPath, etc.
+- Learned imagepicker and imagecropper widgets and added in profile page of app
+- Discussed about backend, finalised it, and started learning firebase
+- Completed more than half of the fronted part
+
+### Team 20
+- Designed the logo of the App.
+- Searching and designing the basic layout of the web pages.
+- working on making several Web pages of the App including the Login Page and profile pages.
+- Further learnt some more widgets of Flutter for improving the User Interface.
+
+### Team 25
+- Learnt about Kotlin extension functions.
+- Integrated Firebase Authentication with the app.
+- Practiced working with XML layouts.
+
 ### Team 21
 - Went into little more deeper in widgets sention
 - Started working on the home page
@@ -45,3 +62,9 @@
 - Designed the option of login through google account.
 - Designed all the widgets , look and animation.
 - Finalised the logo of the app.
+
+### Team 17
+- Started working on the smart contracts.
+- Working on VueJS for the client side application.
+- Learnt to connect the frontend to the blockchain network using web3.js.
+- NodeJS work in progress.
