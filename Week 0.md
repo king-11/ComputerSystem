@@ -141,3 +141,8 @@
 - Learned Jdk and basic java and OOPS principles.
 - Learned Configuration of Android studio and IDE for Java
 - research on project implementation and tasks to be carried out.
+
+### Team 26
+- Learned How to use Django framework (basics)
+- Practiced HTML, CSS  & Bootsrtap
+- Learned basic syntax of Javascript
