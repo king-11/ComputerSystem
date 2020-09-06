@@ -34,6 +34,13 @@
 - learn Responsive design suitable for pc and android both.
 - Created basic homescreen page
 
+### Team 10
+- Learning some advanced features of java  
+- Prepared logo of the app
+- Working on home page 
+- Divided work to all members
+- Learning Android studio
+
 ### Team 9
 - Designed UI for login and registration screen.
 - Created Email and Password based user Authentication.
