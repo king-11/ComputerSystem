@@ -22,3 +22,8 @@
 - Created several pages for the website (user profile page, user home page, sign up,sign in..)
 - Established model relations and their usage.
 - Started learning about various algorithms that will be implemented.
+
+### Team 25
+- Learnt about Kotlin extension functions.
+- Integrated Firebase Authentication with the app.
+- Practiced working with XML layouts.
