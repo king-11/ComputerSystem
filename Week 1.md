@@ -128,3 +128,8 @@
 - Started working on login page.
 - Finalized Logo.
 
+### Team 13
+
+- Learned Javascript basics
+- Practice DOM manipulation and worked with React Framework
+- Began learning backend technologies
