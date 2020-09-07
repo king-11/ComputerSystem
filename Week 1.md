@@ -128,3 +128,7 @@
 - Started working on login page.
 - Finalized Logo.
 
+### Team 14
+- Started learning Flutter Navigation.
+- Continued adding widgets to app.
+- Continued learning Flutter Basics.
