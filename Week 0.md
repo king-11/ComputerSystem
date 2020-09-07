@@ -142,7 +142,16 @@
 - Learned Configuration of Android studio and IDE for Java
 - research on project implementation and tasks to be carried out.
 
-### Team 26
-- Learned How to use Django framework (basics)
-- Practiced HTML, CSS  & Bootsrtap
-- Learned basic syntax of Javascript
+### Team 27
+- Learned basics of django and sql.
+- Started making login and registration system.
+- Applied bootstrap, material css for the frontend.
+- Discussed the basic theme for the web page.
+
+### Team 20
+- Learnt basics of dart and flutter.
+- Learnt how to make login page using Flutter.
+- Created the basic Widgets tree or list that will help in making the basic User Interface.
+- Learnt different functions or Widgets of Flutter for making a nice Front-end.
+- Distributed the work among group members.
+
