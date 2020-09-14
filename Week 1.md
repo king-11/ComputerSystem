@@ -128,3 +128,7 @@
 - Started working on login page.
 - Finalized Logo.
 
+### Team 27
+- Started working on Database.
+- Created Email and Password based user Authentication.
+- Created basic Landing page
