@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2015",
+        "declaration": true,
+        "moduleResolution": "node",
+        "strict": true
+    },
+    "include": ["result.ts"]
+}
