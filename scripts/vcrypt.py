@@ -14,7 +14,7 @@ def check_roll_number(a: str):
     except ValueError:
         print("Invalid Roll Number")
 
-    if a not in range(19075001, 19075093) and a not in range(19074001, 19074033) and a not in range(19124001, 19124049):
+    if a not in range(19075001, 19075093) and a not in range(19074001, 19074033) and a not in range(19124001, 19124049) and a != 15123002:
         print("Invalid Roll Number")
         exit(2)
 
