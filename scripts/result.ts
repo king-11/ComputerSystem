@@ -1,4 +1,4 @@
-const csv = require("csvtojson");
+import csv from "csvtojson"
 const createCsvWriter = require("csv-writer").createObjectCsvWriter
 
 interface result {

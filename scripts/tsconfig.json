@@ -3,8 +3,10 @@
         "module": "CommonJS",
         "target": "ES2015",
         "declaration": true,
-        "moduleResolution": "node",
-        "strict": true
+        "moduleResolution": "Node",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "lib"
     },
-    "include": ["result.ts"]
+    "include": ["result.ts", "uniqueCheck.ts"]
 }
