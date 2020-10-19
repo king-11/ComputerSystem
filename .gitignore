@@ -105,3 +105,4 @@ dist
 
 # lib create on running tsc no need to be included in src
 **/lib
+*.csv
