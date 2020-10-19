@@ -1,3 +1,5 @@
+import { SIGUSR2 } from "constants";
+import { Hash } from "crypto";
 import csv from "csvtojson"
 const createCsvWriter = require("csv-writer").createObjectCsvWriter
 
@@ -45,34 +47,31 @@ const Scores = async (scores: any[]) => {
     let json: result[] = await csv().fromFile("./result.csv")
     // console.log(scores)
 
-    for (let x in json) {
-        let element: result = json[x]
-        let a1 = scores.find(e => parseInt(e['Roll Number']) === parseInt(element["Check 1 Roll"]))
-        let a2 = scores.find(e => parseInt(e['Roll Number']) === parseInt(element["Check 2 Roll"]))
-        let a3 = scores.find(e => parseInt(e['Roll Number']) === parseInt(element["Check 3 Roll"]))
-        // console.log(a1, element)
-        try {
-            a1["Checked 1"] = element["Roll Number"]
-            a1["Checked 1 Hash"] = element["Hash"]
-            a1["Checked 1 Score"] = element["Check 1 Score"]
-            a1["Checked 1 Comment"] = element["Check 1 Comment"]
-
-            a2["Checked 2"] = element["Roll Number"]
-            a2["Checked 2 Hash"] = element["Hash"]
-            a2["Checked 2 Score"] = element["Check 2 Score"]
-            a2["Checked 2 Comment"] = element["Check 2 Comment"]
-
-            a3["Checked 3"] = element["Roll Number"]
-            a3["Checked 3 Hash"] = element["Hash"]
-            a3["Checked 3 Score"] = element["Check 3 Score"]
-            a3["Checked 3 Comment"] = element["Check 3 Comment"]
-        } catch (e) {
-            console.log(element)
-            console.log(a1)
-            console.log(a2)
-            console.log(a3)
-            break;
+    for (let x in scores) {
+        let element = scores[x]
+        // let element: result = json[x]
+        let a1 = [...json.filter(e => parseInt(element['Hash']) === parseInt(e["Check 1 Hash"])), ...json.filter(e => parseInt(element['Hash']) === parseInt(e["Check 2 Hash"])), ...json.filter(e => parseInt(element['Hash']) === parseInt(e["Check 3 Hash"]))]
+        // let a2 = scores.find(e => parseInt(e['Hash']) == parseInt(element["Check 2 Hash"]))
+        // let a3 = scores.find(e => parseInt(e['Hash']) == parseInt(element["Check 3 Hash"]))
+        let a2 = new Set(a1)
+        a1 = [...a2].slice(0, 3)
+        // // console.log(a1, element)
+        for (let j in a1) {
+            const i = parseInt(j)
+            element[`Checked ${i + 1} Hash`] = a1[i].Hash
+            element[`Checked ${i + 1}`] = a1[i]["Roll Number"]
+            try {
+                let person = Object.keys(a1[i]).find(key => parseInt(a1[i][key]) == element['Hash'])
+                person = (person.split(" ").slice(0, 2)).join(" ")
+                element[`Checked ${i + 1} Score`] = a1[i][`${person} Score`]
+                element[`Checked ${i + 1} Comment`] = a1[i][`${person} Comment`]
+            }
+            catch (e) {
+                console.log(element)
+            }
+            // console.log(a1)
         }
+        // break;
     }
 
     return scores

@@ -4,9 +4,8 @@
         "target": "ES2015",
         "declaration": true,
         "moduleResolution": "Node",
-        "strict": true,
         "esModuleInterop": true,
         "outDir": "lib"
     },
-    "include": ["result.ts", "uniqueCheck.ts"]
+    "include": ["src/"]
 }
