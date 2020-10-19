@@ -1,40 +1,38 @@
-from sys import argv
-
-if len(argv) != 3:
-    print("usage:./crypt.py ROLLNO. dd/mm/yyyy")
-    exit(4)
-
+from pathlib import Path
+print('Running' if __name__ == '__main__' else 'Importing', Path(__file__).resolve())
 
 def check_roll_number(a: str):
     if len(a) != 8:
         print("Invalid Roll Number")
         exit(1)
     try:
-        a = int(a)
+        b = int(a)
     except ValueError:
         print("Invalid Roll Number")
+        exit(5)
 
-    if a not in range(19075001, 19075093) and a not in range(19074001, 19074033) and a not in range(19124001, 19124049) and a != 15123002:
+    if b not in range(19075001, 19075093) and b not in range(19074001, 19074033) and b not in range(19124001, 19124049) and b != 15123002:
         print("Invalid Roll Number")
         exit(2)
 
-    return a
+    return b
 
 
-def check_dob(date_of_birth: str):
+def check_dob(date_of_birth: list):
     try:
-        date_of_birth = "".join(date_of_birth)
-        date_of_birth = [int(x) for x in date_of_birth]
+        dob_array = "".join(date_of_birth)
+        dob_array = [int(x) for x in dob_array]
     except ValueError:
         print("Invalid DOB format should be dd/mm/yyyy")
         exit(3)
 
-    return date_of_birth
+    return dob_array
 
 
-def hash_roll_number(roll_number: int):
-    roll_number = roll_number*10 + roll_number % 10
-    roll_number = [x for x in str(roll_number)]
+def hash_roll_number(roll_number_val: int):
+
+    roll_number_val = roll_number_val*10 + roll_number_val % 10
+    roll_number = [int(x) for x in str(roll_number_val)]
     roll_number[2] = 1
     roll_number.reverse()
     roll_number_matrix = []
@@ -62,12 +60,9 @@ def vigenere_cipher(a: list, b: list):
     return ciphered
 
 
-def final_result(roll_number: str, date_of_birth: str):
-    roll_number = check_roll_number(roll_number)
+def final_result(roll_number: str, date_of_birth: list):
+    roll_number_val = check_roll_number(roll_number)
     date_of_birth = check_dob(date_of_birth)
-    result_matrix = hash_roll_number(roll_number)
+    result_matrix = hash_roll_number(roll_number_val)
 
     return vigenere_cipher(result_matrix, date_of_birth)
-
-
-print(final_result(argv[1], argv[2].split("/")))

@@ -1,3 +1,6 @@
+from pathlib import Path
+print('Running' if __name__ == '__main__' else 'Importing', Path(__file__).resolve())
+
 from csv import DictReader, DictWriter
 import random
 
@@ -24,4 +27,3 @@ with open('Final.csv', 'r', newline="") as file:
                 'Name': y['Name'], 'Roll Number': y['Roll Number'], 'Hash': y['Hash'], 'Check 1': x1['Name'], 'Check 1 Roll': x1['Roll Number'], 'Check 1 Hash': x1['Hash'], 'Check 2': x2['Name'], 'Check 2 Roll': x2['Roll Number'], 'Check 2 Hash': x2['Hash'], 'Check 3': x3['Name'], 'Check 3 Roll': x3['Roll Number'], 'Check 3 Hash': x3['Hash']
             }
             writer.writerow(row)
-
